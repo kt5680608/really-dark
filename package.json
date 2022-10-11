@@ -1,0 +1,21 @@
+{
+  "name": "this-is-really-dark",
+  "displayName": "This is really dark",
+  "description": "it's really dark be careful",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "oh it's really dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oh it's really dark-color-theme.json"
+      }
+    ]
+  }
+}
